@@ -1,7 +1,7 @@
 # Task Manager
 [![Actions Status](https://github.com/kochetkoov/python-project-52/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/kochetkoov/python-project-52/actions)
-[![Maintainability](https://api.codeclimate.com/v1/badges/d1258a96be3ef5b67aee/maintainability)](https://codeclimate.com/github/vitallcore/python-project-52/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/d1258a96be3ef5b67aee/test_coverage)](https://codeclimate.com/github/vitallcore/python-project-52/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/d1258a96be3ef5b67aee/maintainability)](https://codeclimate.com/github/kochetkoov/python-project-52/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/d1258a96be3ef5b67aee/test_coverage)](https://codeclimate.com/github/kochetkoov/python-project-52/test_coverage)
 
 ## Description
 Task Manager is a simple web application that helps users manage their tasks.
@@ -12,7 +12,7 @@ Clone this repository to your local machine.
 git clone https://github.com/kochetkoov/python-project-52.git
 cd python-project-52
 ```
-Install dependencies using [Poetry](https://python-poetry.org/docs/).
+Install dependencies using UV.
 ```bash
 make install
 ```

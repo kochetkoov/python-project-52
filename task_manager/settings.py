@@ -20,7 +20,6 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 
 load_dotenv()
 
-sys.path.append(str(Path(__file__).resolve().parent.parent))
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 

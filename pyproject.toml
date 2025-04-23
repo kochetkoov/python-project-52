@@ -29,5 +29,5 @@ dev = [
 requires = ["setuptools>=65.0.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[tool.hatch.build.targets.wheel]
+[tool.setuptools]
 packages = ["task_manager"]
